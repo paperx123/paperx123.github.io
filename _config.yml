@@ -1,0 +1,15 @@
+theme: jekyll-theme-minimal
+
+title: AI Engineering Notes
+description: Experiments, reflections, and engineering practices in AI and agentic systems.
+
+author:
+  name: paperx123
+
+url: "https://paperx123.github.io"
+baseurl: ""
+
+github_username: paperx123
+
+# Optional
+show_downloads: false
