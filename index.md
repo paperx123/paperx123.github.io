@@ -16,6 +16,7 @@ WRITING
 
 → What a Diagram Reconstruction Experiment Taught
 Me About AI Engineering
+[Read the article →](./writing/diagram-reconstruction.html)
 
 → Designing Memory for Agentic AI Systems
 
