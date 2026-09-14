@@ -1,48 +1,40 @@
----
-layout: default
----
+────────────────────────────────────────
 
-# paperx123
+Paperx123
 
-Software engineer exploring AI engineering and agentic systems.
+Software Engineer
+AI Engineering · Agentic Systems · Software Engineering
 
-I write about practical experiments in:
+────────────────────────────────────────
 
-- AI engineering
-- Agentic AI
-- Context engineering
-- Agent memory
-- Tool use and workflows
-- AI-assisted software engineering
-- Evaluation and reliability
+ABOUT
 
-## Writing
+I explore how AI can be integrated into real-world
+software engineering systems.
 
-### What a Diagram Reconstruction Experiment Taught Me About AI Engineering
+WRITING
 
-I experimented with Gemini and Antigravity to reconstruct diagram images into editable formats such as draw.io and Mermaid.
+→ What a Diagram Reconstruction Experiment Taught
+Me About AI Engineering
 
-The experiment started as a seemingly simple image-to-diagram problem, but exposed several deeper engineering challenges around semantic reconstruction, layout, intermediate representations, validation, and the boundary between AI reasoning and deterministic software.
+→ Designing Memory for Agentic AI Systems
 
-[Read the article →](./writing/diagram-reconstruction.html)
+→ What Is a Skill in an Agentic AI System?
 
-## Projects
+PROJECTS
 
-### Diagram Reconstruction
+→ Diagram Reconstruction
+→ Legacy Code Modernization with AI
+→ Agent Memory Experiments
 
-An experiment in reconstructing diagrams from images into editable representations.
+EXPERIMENTS
 
-- Vision-based diagram understanding
-- Structured diagram representation
-- draw.io generation
-- Automated rendering and validation
+→ Context Engineering
+→ Structured Outputs
+→ Tool Usage
+→ Agent Workflows
+→ Evaluation
 
-[View project →](https://github.com/paperx123)
-
-## About
-
-I am a software engineer interested in applying AI to real-world software engineering problems.
-
-My current focus is on understanding how to build reliable AI-powered systems rather than treating LLMs as a replacement for conventional software engineering.
-
-[GitHub](https://github.com/paperx123)
+────────────────────────────────────────
+GitHub · LinkedIn
+────────────────────────────────────────
