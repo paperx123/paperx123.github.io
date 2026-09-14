@@ -24,15 +24,21 @@ Me About AI Engineering](./writing/diagram-reconstruction.html)
 PROJECTS
 
 → Diagram Reconstruction
+
 → Legacy Code Modernization with AI
+
 → Agent Memory Experiments
 
 EXPERIMENTS
 
 → Context Engineering
+
 → Structured Outputs
+
 → Tool Usage
+
 → Agent Workflows
+
 → Evaluation
 
 ────────────────────────────────────────
