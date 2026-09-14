@@ -7,12 +7,12 @@ AI Engineering · Agentic Systems · Software Engineering
 
 ────────────────────────────────────────
 
-ABOUT
+## ABOUT
 
 I explore how AI can be integrated into real-world
 software engineering systems.
 
-WRITING
+## WRITING
 
 → [What a Diagram Reconstruction Experiment Taught
 Me About AI Engineering](./writing/diagram-reconstruction.html)
@@ -21,23 +21,30 @@ Me About AI Engineering](./writing/diagram-reconstruction.html)
 
 → What Is a Skill in an Agentic AI System?
 
-PROJECTS
+## PROJECTS
 
-→ Diagram Reconstruction
+### Diagram Reconstruction
 
-→ Legacy Code Modernization with AI
+An experiment in reconstructing diagrams from images into editable
+representations.
 
-→ Agent Memory Experiments
+[Project overview →](/projects/diagram-reconstruction/)
 
-EXPERIMENTS
+[GitHub repository →](https://github.com/paperx123)
 
-→ Context Engineering
+### Legacy Code Modernization with AI
 
-→ Structured Outputs
+### Agent Memory Experiments
 
-→ Tool Usage
+## EXPERIMENTS
 
-→ Agent Workflows
+### Context Engineering
 
-→ Evaluation
+### Structured Outputs
+
+### Tool Usage
+
+### Agent Workflows
+
+### Evaluation
 
